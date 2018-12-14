@@ -2,10 +2,10 @@
 
 ```html 
  <style>
-    #box-container {
+    /* #box-container {
       height: 500px;
 
-    }
+    } */
 
     #box-1 {
       background-color: dodgerblue;
