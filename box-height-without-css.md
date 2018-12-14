@@ -40,7 +40,7 @@
   |  |- #text:
   |
   |- BODY
-     |- DIV id="box-container"
+     |- DIV
         |- #text:
         |- DIV id="box-1"
         |- #text:
